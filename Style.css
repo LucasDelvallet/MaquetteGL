@@ -1,4 +1,6 @@
-.lw { font-size: 60px; }
+.lw { 
+  font-size: 60px; 
+}
 
 #menu li { 
   display : inline;
@@ -27,7 +29,6 @@
   border: 2px solid blue;
   margin: 2%;
   padding: 2%;
-  
 }
 
 #divNews {
